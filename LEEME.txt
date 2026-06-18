@@ -1,0 +1,22 @@
+Confecciones Marinely - actualización premium
+
+Cambios realizados:
+- Se reemplazó el SVG artificial del hero por una imagen fotográfica profesional.
+- Se agregó assets/hero-textil-premium.jpg.
+- Se actualizó styles.css para mostrar la imagen mejor centrada, más grande y con estilo premium.
+- Se reemplazó el logo gigante de la sección Servicios por una fotografía profesional de producción textil.
+- Se conserva index.html, styles.css, script.js y carpeta assets lista para publicar.
+
+Sube todo el contenido manteniendo la carpeta assets.
+
+
+Corrección adicional:
+- Se corrigió la posición de desplazamiento al hacer clic en Productos, Servicios, Ecología, Logística y Contacto.
+- Se agregó scroll-padding-top y scroll-margin-top.
+- Se actualizó script.js para calcular automáticamente la altura real del menú superior.
+- Se redujo ligeramente el encabezado para que no tape los títulos de cada sección.
+
+
+Actualización redes sociales:
+- Se agregaron logos/íconos visuales a Facebook, Instagram, TikTok, Waze y Google Maps.
+- Se mejoró el diseño de los botones sociales con colores de marca.
