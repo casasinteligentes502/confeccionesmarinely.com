@@ -2,3 +2,20 @@
 
 .instagram .social-icon svg{width:22px;height:22px}
 .pending .social-icon{font-size:18px}
+
+/* Ubicaciones de sede principal y sucursal */
+.location-card{margin:22px 0;padding:24px;border:1px solid #eadfc7;border-radius:22px;background:#fff;box-shadow:0 12px 30px rgba(0,0,0,.06)}
+.location-card h3{margin:7px 0 9px;font-size:25px}
+.location-card p{margin:7px 0}
+.location-label{display:inline-block;padding:7px 11px;border-radius:999px;background:#111;color:#fff;font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+.coordinates{font-family:Consolas,Monaco,monospace;font-size:13px;color:#777!important}
+.map-actions{display:flex;flex-wrap:wrap;gap:11px;margin-top:17px}
+.map-btn{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:12px 17px;border-radius:13px;color:#fff!important;text-decoration:none;font-weight:900;transition:transform .2s ease,filter .2s ease}
+.map-btn:hover{transform:translateY(-2px);filter:brightness(1.06)}
+.map-btn.waze{background:linear-gradient(135deg,#16c5d4,#079aaa)}
+.map-btn.google-maps{background:linear-gradient(135deg,#4285f4,#2469cf)}
+.contact-details{margin-top:25px;padding-top:10px;border-top:1px solid #e5d8bc}
+.locations-summary{margin-top:10px;padding:22px;border-radius:18px;background:#252525}
+.locations-summary h3{margin:0 0 8px;color:var(--gold2)}
+.locations-summary p{margin:0;color:#ddd;line-height:1.55}
+@media (max-width:600px){.map-actions{display:grid}.map-btn{width:100%}.location-card{padding:19px}}

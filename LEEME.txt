@@ -20,3 +20,10 @@ Corrección adicional:
 Actualización redes sociales:
 - Se agregaron logos/íconos visuales a Facebook, Instagram, TikTok, Waze y Google Maps.
 - Se mejoró el diseño de los botones sociales con colores de marca.
+
+
+Actualización de ubicaciones:
+- Sede principal agregada con enlaces a Waze y Google Maps.
+- Sucursal agregada con enlaces a Waze y Google Maps.
+- Se reemplazaron los botones pendientes por accesos funcionales.
+- Mantén la carpeta assets junto a estos archivos al publicar.
