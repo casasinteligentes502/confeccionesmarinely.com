@@ -1,29 +1,27 @@
-Confecciones Marinely - actualización premium
+Confecciones Marinely - actualización de galería de productos
 
 Cambios realizados:
-- Se reemplazó el SVG artificial del hero por una imagen fotográfica profesional.
-- Se agregó assets/hero-textil-premium.jpg.
-- Se actualizó styles.css para mostrar la imagen mejor centrada, más grande y con estilo premium.
-- Se reemplazó el logo gigante de la sección Servicios por una fotografía profesional de producción textil.
-- Se conserva index.html, styles.css, script.js y carpeta assets lista para publicar.
+- Se agregaron las 15 fotografías nuevas proporcionadas por el cliente.
+- Se creó una nueva sección "Galería" dentro de la página principal.
+- Se organizó la galería por categorías: Corporativos, Industriales y Promocionales.
+- Se mejoró la presentación visual de las fotografías mediante encuadre, contraste, saturación y definición aplicados desde CSS, sin generar imágenes nuevas ni modificar el contenido original de las fotos.
+- Se agregó vista ampliada al hacer clic en cada fotografía.
+- Se agregaron filtros interactivos para navegar la galería.
+- Se mantuvieron los enlaces, ubicaciones, redes sociales y datos existentes.
+- Se actualizó la navegación superior para incluir el acceso a Galería.
+- Se mejoró la adaptación de la galería para computadoras, tablets y teléfonos.
 
-Sube todo el contenido manteniendo la carpeta assets.
+ARCHIVOS ACTUALIZADOS:
+- index.html
+- styles.css
+- script.js
+- assets/galeria/imagen1.jfif a imagen15.jfif
 
+IMPORTANTE:
+Esta actualización contiene únicamente los archivos principales modificados y las nuevas fotografías.
+Al publicar, conserva también los demás archivos que ya existen dentro de tu carpeta assets, especialmente:
+- assets/logo-marinely.png
+- assets/hero-textil-premium.jpg
+- assets/logistica-marinely.jpg
 
-Corrección adicional:
-- Se corrigió la posición de desplazamiento al hacer clic en Productos, Servicios, Ecología, Logística y Contacto.
-- Se agregó scroll-padding-top y scroll-margin-top.
-- Se actualizó script.js para calcular automáticamente la altura real del menú superior.
-- Se redujo ligeramente el encabezado para que no tape los títulos de cada sección.
-
-
-Actualización redes sociales:
-- Se agregaron logos/íconos visuales a Facebook, Instagram, TikTok, Waze y Google Maps.
-- Se mejoró el diseño de los botones sociales con colores de marca.
-
-
-Actualización de ubicaciones:
-- Sede principal agregada con enlaces a Waze y Google Maps.
-- Sucursal agregada con enlaces a Waze y Google Maps.
-- Se reemplazaron los botones pendientes por accesos funcionales.
-- Mantén la carpeta assets junto a estos archivos al publicar.
+Para actualizar tu sitio, reemplaza index.html, styles.css y script.js, y agrega la carpeta assets/galeria con las 15 imágenes.
