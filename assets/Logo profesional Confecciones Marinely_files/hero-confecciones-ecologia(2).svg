@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#fffaf0"/><stop offset="0.55" stop-color="#f4efe4"/><stop offset="1" stop-color="#d7ead9"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#c88922"/><stop offset="1" stop-color="#f1bd55"/></linearGradient>
+  <linearGradient id="fabric" x1="0" x2="1"><stop offset="0" stop-color="#111"/><stop offset="1" stop-color="#2d2d2d"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1400" height="900" fill="url(#bg)"/>
+<circle cx="1110" cy="210" r="210" fill="#e5f4e9" opacity=".95"/>
+<circle cx="1190" cy="710" r="230" fill="#f2dca6" opacity=".35"/>
+<path d="M1045 180c80 10 143 80 150 160-65-12-134 5-189 48 5-76 18-148 39-208z" fill="#3b8f5a" opacity=".95"/>
+<path d="M1100 160c-45 100-55 195-18 302" fill="none" stroke="#fff" stroke-width="7" opacity=".85"/>
+<g filter="url(#shadow)">
+<rect x="90" y="140" rx="32" width="610" height="560" fill="#fff" opacity=".96"/>
+<rect x="145" y="230" rx="18" width="280" height="190" fill="#f5f5f5" stroke="#d9d1bd" stroke-width="6"/>
+<rect x="205" y="300" width="160" height="40" rx="18" fill="#2e2e2e"/>
+<circle cx="365" cy="320" r="50" fill="none" stroke="#2e2e2e" stroke-width="18"/>
+<path d="M240 425h250c38 0 70 31 70 70v45H190v-65c0-27 22-50 50-50z" fill="#1f1f1f"/>
+<path d="M525 420l90 120" stroke="#1f1f1f" stroke-width="24" stroke-linecap="round"/>
+<rect x="160" y="545" width="430" height="48" rx="24" fill="url(#gold)"/>
+<rect x="180" y="620" width="360" height="34" rx="17" fill="#e8e0d1"/>
+<rect x="210" y="655" width="300" height="22" rx="11" fill="#ccb680"/>
+</g>
+<g filter="url(#shadow)">
+<path d="M680 370c170-115 340-75 485 35 20 15 22 44 2 61-150 130-333 144-505 34-41-26-23-100 18-130z" fill="#ffffff" opacity=".97"/>
+<path d="M700 415c150-70 300-55 430 35" fill="none" stroke="#111" stroke-width="14" stroke-linecap="round" opacity=".8"/>
+<path d="M700 480c145-65 285-42 420 42" fill="none" stroke="url(#gold)" stroke-width="18" stroke-linecap="round"/>
+<path d="M755 370c-30 62-38 116-10 172M855 342c-28 74-28 142 6 214M960 342c-20 72-14 143 30 214M1065 378c-12 55-3 106 35 151" stroke="#d5c29a" stroke-width="4"/>
+</g>
+<g>
+<circle cx="1040" cy="630" r="58" fill="#1f1f1f"/>
+<circle cx="1040" cy="570" r="28" fill="#e0b78a"/>
+<path d="M970 712c14-74 126-74 141 0" fill="#2d2d2d"/>
+<rect x="995" y="632" width="92" height="76" rx="28" fill="#f6f6f6"/>
+<circle cx="1220" cy="640" r="52" fill="#2d2d2d"/>
+<circle cx="1220" cy="584" r="26" fill="#d5a982"/>
+<path d="M1160 712c13-66 108-66 122 0" fill="#3b8f5a"/>
+</g>
+<g opacity=".95">
+<path d="M120 790c120-58 210-55 315-5 105 50 190 45 282-10 98-58 183-62 302-2 101 51 199 48 305-10" fill="none" stroke="#3b8f5a" stroke-width="12" stroke-linecap="round" opacity=".65"/>
+<path d="M195 780c22-50 62-78 120-85-14 58-47 94-120 85zM1180 735c48-32 94-36 138-12-42 45-86 55-138 12z" fill="#3b8f5a"/>
+<path d="M296 700c-5 35 0 62 26 86M1240 695c-18 34-19 64 1 92" fill="none" stroke="#fff" stroke-width="5" opacity=".75"/>
+</g>
+<text x="90" y="80" font-family="Georgia, serif" font-size="44" fill="#111" letter-spacing="5">CONFECCIÓN PROFESIONAL</text>
+<text x="92" y="116" font-family="Arial, sans-serif" font-size="18" fill="#5b5b5b">Textiles, maquinaria y equipo humano con responsabilidad ecológica</text>
+</svg>
